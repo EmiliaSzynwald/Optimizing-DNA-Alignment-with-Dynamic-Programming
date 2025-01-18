@@ -50,10 +50,9 @@ Three scoring schemes are implemented as subclasses:
 ## Usage
 
 ### Prerequisites
-- Option 1: Input two .dna files (e.g., arman.dna, artyan.dna).
-- Option 2: Enter sequences manually when prompted.
-- Option 3: Change in DNA.java which Scheme (e.g., scheme1, scheme2).
-- Option 4: Comment out traceback feature (prints aligned sequences); recommended to remove if handling long DNA sequences
+- Option 1: Input two .dna files (e.g., arman.dna, artyan.dna) OR Enter sequences manually within DNA.java.
+- Option 2: Change which Scheme (e.g., scheme1, scheme2) within DNA.java.
+- Option 3: Comment out traceback feature (prints aligned sequences) within DNA.java; recommended to remove if handling long DNA sequences.
 
 ### Setup
 1. Compile the source files:
