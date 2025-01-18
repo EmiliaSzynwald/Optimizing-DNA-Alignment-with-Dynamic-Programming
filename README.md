@@ -57,6 +57,8 @@ Three scoring schemes are implemented as subclasses:
 
 ### Setup
 1. Compile the source files:
-       javac NeedlemanWunsch.java DNA.java
-2. Run the program:
-       java DNA
+
+          javac NeedlemanWunsch.java DNA.java
+3. Run the program:
+   
+          java DNA
